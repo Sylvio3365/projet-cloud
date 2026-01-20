@@ -36,6 +36,7 @@ Utilisation de **Firebase** si connexion Internet, sinon base locale dans Docker
 
 ## Module Cartes
 
+
 - Installer un serveur de carte **Offline** dans Docker
 - Télécharger la ville d’**Antananarivo** avec ses tuiles
 - Utiliser **Leaflet** pour afficher et manipuler la carte dans l’application web
